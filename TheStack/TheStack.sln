@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheStack", "TheStack\TheStack.csproj", "{072BE86B-BB23-4834-871F-74CB99A7A3EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericStack", "GenericStack\GenericStack.csproj", "{9CC873B2-6561-4DE7-B0E0-616478F1DB82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{072BE86B-BB23-4834-871F-74CB99A7A3EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{072BE86B-BB23-4834-871F-74CB99A7A3EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{072BE86B-BB23-4834-871F-74CB99A7A3EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{072BE86B-BB23-4834-871F-74CB99A7A3EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CC873B2-6561-4DE7-B0E0-616478F1DB82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CC873B2-6561-4DE7-B0E0-616478F1DB82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CC873B2-6561-4DE7-B0E0-616478F1DB82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CC873B2-6561-4DE7-B0E0-616478F1DB82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://cisteam.otc.edu/tfs/mb0242181
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = GenericStack\\GenericStack.csproj
+		SccProjectName1 = GenericStack
+		SccLocalPath1 = GenericStack
+		SccProjectUniqueName2 = TheStack\\TheStack.csproj
+		SccProjectName2 = TheStack
+		SccLocalPath2 = TheStack
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+E:\CIS151\CIS151 - Assignments\11-1BooksTable\bin\Debug\11-1BooksTable.exe.config
+E:\CIS151\CIS151 - Assignments\11-1BooksTable\bin\Debug\11-1BooksTable.exe
+E:\CIS151\CIS151 - Assignments\11-1BooksTable\bin\Debug\11-1BooksTable.pdb
+E:\CIS151\CIS151 - Assignments\11-1BooksTable\obj\Debug\11-1BooksTable.csprojResolveAssemblyReference.cache
+E:\CIS151\CIS151 - Assignments\11-1BooksTable\obj\Debug\_11_1BooksTable.FrmBooks.resources
+E:\CIS151\CIS151 - Assignments\11-1BooksTable\obj\Debug\_11_1BooksTable.Properties.Resources.resources
+E:\CIS151\CIS151 - Assignments\11-1BooksTable\obj\Debug\11-1BooksTable.csproj.GenerateResource.Cache
+E:\CIS151\CIS151 - Assignments\11-1BooksTable\obj\Debug\11-1BooksTable.exe
+E:\CIS151\CIS151 - Assignments\11-1BooksTable\obj\Debug\11-1BooksTable.pdb

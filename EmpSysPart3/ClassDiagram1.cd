@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EmpSysPart1.Employee">
+    <Position X="2.75" Y="0.5" Width="1.75" />
+    <Members>
+      <Property Name="DateHired" Hidden="true" />
+      <Property Name="Email" Hidden="true" />
+      <Property Name="FirstName" Hidden="true" />
+      <Property Name="LastName" Hidden="true" />
+      <Property Name="Phone" Hidden="true" />
+      <Property Name="Social" Hidden="true" />
+      <Property Name="TaxRate" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAEAAEAAACBAAACECAAAAAkAAgAAAAACAAAAKIAEAIg=</HashCode>
+      <FileName>Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmpSysPart1.Form1" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAiAAAAAACACABAAAAiAAIACACBABMAAAAAAAAAAAIA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmpSysPart1.FullTimeEmployee">
+    <Position X="5" Y="0.5" Width="1.75" />
+    <Members>
+      <Property Name="HasIns" Hidden="true" />
+      <Property Name="IsTaxExempt" Hidden="true" />
+      <Property Name="Salary" Hidden="true" />
+      <Property Name="Sick" Hidden="true" />
+      <Property Name="Vacation" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAEAAGAACAAgAAAGAwgAAAEAAgAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FullTimeEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmpSysPart1.Manager">
+    <Position X="7.25" Y="0.5" Width="1.75" />
+    <Members>
+      <Property Name="Bonus" Hidden="true" />
+      <Property Name="Dept" Hidden="true" />
+      <Property Name="Office" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAkAAAAIAAQAgAAAACAAAgAAAAAAAA=</HashCode>
+      <FileName>Manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmpSysPart1.PartTimeEmployee">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <Members>
+      <Property Name="HourlyRate" Hidden="true" />
+      <Property Name="HoursWorked" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAEAAAAIAAAACAAEAAAAAAEAAgABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PartTimeEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmpSysPart1.Program" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmpSysPart1.Properties.Resources" Collapsed="true">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmpSysPart1.Properties.Settings" Collapsed="true">
+    <Position X="11.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

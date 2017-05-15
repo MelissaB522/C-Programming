@@ -1,0 +1,9 @@
+E:\CIS151\CIS151 - Assignments\ParkingGarage\bin\Debug\ParkingGarage.exe.config
+E:\CIS151\CIS151 - Assignments\ParkingGarage\bin\Debug\ParkingGarage.exe
+E:\CIS151\CIS151 - Assignments\ParkingGarage\bin\Debug\ParkingGarage.pdb
+E:\CIS151\CIS151 - Assignments\ParkingGarage\obj\Debug\ParkingGarage.Form1.resources
+E:\CIS151\CIS151 - Assignments\ParkingGarage\obj\Debug\ParkingGarage.Properties.Resources.resources
+E:\CIS151\CIS151 - Assignments\ParkingGarage\obj\Debug\ParkingGarage.frmTickets.resources
+E:\CIS151\CIS151 - Assignments\ParkingGarage\obj\Debug\ParkingGarage.csproj.GenerateResource.Cache
+E:\CIS151\CIS151 - Assignments\ParkingGarage\obj\Debug\ParkingGarage.exe
+E:\CIS151\CIS151 - Assignments\ParkingGarage\obj\Debug\ParkingGarage.pdb

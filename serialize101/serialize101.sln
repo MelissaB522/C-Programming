@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "serialize101", "serialize101\serialize101.csproj", "{74C78D3B-EDF2-427F-8AE1-84F8E957B850}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74C78D3B-EDF2-427F-8AE1-84F8E957B850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74C78D3B-EDF2-427F-8AE1-84F8E957B850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74C78D3B-EDF2-427F-8AE1-84F8E957B850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74C78D3B-EDF2-427F-8AE1-84F8E957B850}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://cisteam.otc.edu/tfs/mb0242181
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = serialize101\\serialize101.csproj
+		SccProjectName1 = serialize101
+		SccLocalPath1 = serialize101
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 11", "Exercise 11\Exercise 11.csproj", "{F015B365-EF28-467E-B55C-65255B4213F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonTester", "PersonTester\PersonTester.csproj", "{BA7EA28D-322E-4742-9B90-2791BC0D5CF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F015B365-EF28-467E-B55C-65255B4213F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F015B365-EF28-467E-B55C-65255B4213F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F015B365-EF28-467E-B55C-65255B4213F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F015B365-EF28-467E-B55C-65255B4213F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA7EA28D-322E-4742-9B90-2791BC0D5CF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA7EA28D-322E-4742-9B90-2791BC0D5CF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA7EA28D-322E-4742-9B90-2791BC0D5CF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA7EA28D-322E-4742-9B90-2791BC0D5CF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://cisteam.otc.edu/tfs/mb0242181
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Exercise\u002011\\Exercise\u002011.csproj
+		SccProjectName1 = Exercise\u002011
+		SccLocalPath1 = Exercise\u002011
+		SccProjectUniqueName2 = PersonTester\\PersonTester.csproj
+		SccProjectName2 = PersonTester
+		SccLocalPath2 = PersonTester
+	EndGlobalSection
+EndGlobal

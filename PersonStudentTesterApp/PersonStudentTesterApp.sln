@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonStudentTesterApp", "PersonStudentTesterApp\PersonStudentTesterApp.csproj", "{2F34676F-2235-4940-89FC-D89E1033085B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentation GUI", "Presentation GUI\Presentation GUI.csproj", "{BB29BF7E-E30B-4128-A9C3-535B0B4ACFD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F34676F-2235-4940-89FC-D89E1033085B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F34676F-2235-4940-89FC-D89E1033085B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F34676F-2235-4940-89FC-D89E1033085B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F34676F-2235-4940-89FC-D89E1033085B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB29BF7E-E30B-4128-A9C3-535B0B4ACFD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB29BF7E-E30B-4128-A9C3-535B0B4ACFD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB29BF7E-E30B-4128-A9C3-535B0B4ACFD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB29BF7E-E30B-4128-A9C3-535B0B4ACFD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://cisteam.otc.edu/tfs/mb0242181
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = PersonStudentTesterApp\\PersonStudentTesterApp.csproj
+		SccProjectName1 = PersonStudentTesterApp
+		SccLocalPath1 = PersonStudentTesterApp
+		SccProjectUniqueName2 = Presentation\u0020GUI\\Presentation\u0020GUI.csproj
+		SccProjectName2 = Presentation\u0020GUI
+		SccLocalPath2 = Presentation\u0020GUI
+	EndGlobalSection
+EndGlobal
